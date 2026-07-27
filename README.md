@@ -219,14 +219,17 @@
         <div class="card active" id="page1">
             <h1>🎉 Birthday Special! ✨</h1>
             <div class="name">Happy Birthday Chlooooo 🎂</div>
-            <p>Unakkaga oru chinna surprise ready panni irukken! Keela irukkira button-a click pannu!</p>
+            <p> First mela irukka play music ah click pannu!En idhaya devadhai ki Iniya Piranthanaal Vaazthukkal! 💖 En idhayathin thudippae nee dhaan. Un sirippil en ulagame maarudhu. En vazhkkaiyosaiyoliyin sangeethamae un anbu dhaan. Love you endlessly, darly! ✨🌹!Unakkaga oru chinna surprise ready panni irukken! Keela irukkira button-a click pannu!</p>
             <button class="btn" onclick="nextPage(2)">Next Page ➔</button>
         </div>
 
         <!-- Page 2: Special Wish -->
         <div class="card" id="page2">
             <h1>🌟 Special Wish</h1>
-            <p>Intha naal unakku romba santhoshathaiyum, unoda ellaa kanavugalum niraveruradhuku ennode manamaarndha vaazhthukkal! ❤️</p>
+            <p>En anbu pondatti ki Iniya Piranthanaal Vaazthukkal! ❤️
+                En vazhkailayae enakku kidaicha mikaperiya varam nee dhaan. Yevvlao kashtangal, kavalai irundhalum, unnodaiya oru chinna sirippu podhum, en manasu pooraa sandhosham niranjidum. Un anbu, un akkarai, en mela nee kaattura mariyaadhai—ithu ellam dhaan enna dhinamum oru nalla manidhanaa maathudhu.
+                Inniya irukkura en vazhkkai pooraa, unna sandhoshamaga vechurukkanum nu dhaan na aasaipadren. Un kanavugal ellam nijamaga en eppodhum un koodavae iruppen.
+                Intha varusham mattum illa, eppodhumae un vazhkkai nalla aarokkiyam, sandhosham, matrum vetriyoada irukka en idhaya poorvamaana vaazthukkal. Love you so much darly! 💕🥂 ❤️</p>
             <div class="btn-group">
                 <button class="btn btn-secondary" onclick="nextPage(1)">⬅ Back</button>
                 <button class="btn" onclick="nextPage(3)">See Memories 📸 ➔</button>
@@ -239,9 +242,11 @@
             
             <div class="gallery-box">
                 <!-- Inga unga photos link-a maathikonga -->
-                <img src="hanuman-chromebook-wallpaper.jpg" class="gallery-img active-img" alt="Photo 1">
-                <img src="thumb-1920-79608.jpg" class="gallery-img" alt="Photo 2">
-                <img src="wp2604452.jpg" class="gallery-img" alt="Photo 3">
+                <img src="755941618_1739463730595669_3765203106732782031_n.jpg" class="gallery-img active-img" alt="Photo 1">
+                <img src="756219151_1520600223415535_7575836854553322434_n.jpg" class="gallery-img" alt="Photo 2">
+                <img src="756699513_917476147347312_1880386754871414142_n.jpg" class="gallery-img" alt="Photo 3">
+                <img src="756975072_1362599362156945_1172030515958605158_n.jpg" class="gallery-img" alt="Photo 4">
+                <img src="758073694_1540161751485551_8261216952343820119_n.jpg" class="gallery-img" alt="Photo 5">
             </div>
 
             <div class="gallery-controls">
@@ -259,10 +264,10 @@
         <!-- Page 4: Gift Surprise -->
         <div class="card" id="page4">
             <h1>🎁 Tap the Gift Box!</h1>
-            <p>Unakkana Secret Wish keela irukkura gift box ullae irukku, click panni paar!</p>
+            <p>Unakkana Secret Wish keela irukkura gift box ulla irukku, click panni paar!</p>
             <div class="gift-box" onclick="openGift()">🎁</div>
             <div class="hidden-message" id="secretWish">
-                 Keep smiling always! Un sirippu dhaan unakku azhage! Unakku oru semma grand party wait pannudhu! 🥳🎂
+                En uyir kaadhaliyae, Iniya Piranthanaal Vaazthukkal! 👑❤️ En kannurangum nodiyilum un ninaivu dhaan. En vaazhvin migapperiya alangaaramae un anbu dhaan. Unnodu sernthu vazhum ovvoru naalum oru azhagana thiruvizha! Love you my queen! 🌹✨
             </div>
             <div class="btn-group" style="margin-top: 25px;">
                 <button class="btn btn-secondary" onclick="nextPage(3)">⬅ Back</button>
@@ -274,7 +279,11 @@
         <div class="card" id="page5">
             <h1>🥳 Grand Blast! 🎆</h1>
             <div class="name">Annapoorani Chlooooo</div>
-            <p>Have an incredible year ahead full of love, success, and happiness! Enjoy your day to the fullest! 🎈✨</p>
+            <p>En uyirukkum melana pondatti ki Iniya Piranthanaal Vaazthukkal! ❤️✨
+                Nee en vazhkaiyil vandha andha naaql thaan en vazhkkaiyae pooranam aachidhu. Unnodaiya ovvoru vizhi paarvaiyum, un chinna sirippum, en manasula kaadhal mazhaiya pozhiyum. Nee pakkathula irukkumbothu dhaan en ulagame azhagagudhu. Un anbu thaan en vazhkaiyoda ore velicham!
+                Intha ulagathilayae unna thaan ennala adhigama love panna mudiyum. Unna sandhoshamaga vechukkardhu thaan en vazhkkaiyoda ore aasa. Un kaigalai pidichukittu en ayul muzhuvadhum nadakka venum. Un kanavugal ellaame nijamaga na uyiroda irukkura varai un koodavae thunaiyaga iruppen.
+                En idhayathin ovvoru thudippum un peyara thaan sollughadhu. Intha piranthanaalil unakku aayusum, aarokkiyamum, alavilladha sandhoshamum kidaikka en uyiroda serndha vaazthukkal, my sweet wife!
+                Love you to the moon and back, darly! 💕🥂🌹 🎈✨</p>
             <button class="btn btn-secondary" onclick="nextPage(1)">🔄 Start Again</button>
         </div>
 
